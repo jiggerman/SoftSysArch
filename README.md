@@ -1,1 +1,1 @@
-# SoftSysArch
+# Software system architectures
